@@ -7,11 +7,12 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://img.shields.io/packagist/l/laravel/framework" alt="License"></a>
 </p>
 
-## Laravel Queue Clear Command
+## Information
 
-Link: https://github.com/morrislaptop/laravel-queue-clear
+<b>Laravel Queue Clear Command</b>
+Link: <a href="https://github.com/morrislaptop/laravel-queue-clear" target='_blank'>https://github.com/morrislaptop/laravel-queue-clear</a>
 
-To keep running queue work run this command:
+<b>To keep running queue work run this command:</b>
 
 <div class="highlight highlight-source-shell position-relative" data-snippet-clipboard-copy-content="php artisan queue:clear [connection] [queue]
 "><pre>php artisan queue:work &</pre></div>
