@@ -5,7 +5,7 @@ namespace App\Http\Controllers;
 use Illuminate\Http\Request;
 use App\Jobs\SendEmail;
 use App\Mail\SendUserMail;
-use Illuminate\support\Facades\Mail;
+use Illuminate\Support\Facades\Mail;
 
 class SendEmailController extends Controller
 {
